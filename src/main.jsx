@@ -7,7 +7,6 @@ import back from './App';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <back />
   </React.StrictMode>,
   document.getElementById('root')
 );
