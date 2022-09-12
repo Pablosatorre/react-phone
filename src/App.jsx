@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import { logo } from './png_apps/galeria.png';
 
 function App() {
   return (
